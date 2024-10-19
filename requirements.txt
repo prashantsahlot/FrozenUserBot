@@ -1,3 +1,5 @@
-pyrogram==2.0
-Flask==2.1.2
+pyrogram
+flask
+tgcrypto
+
 
